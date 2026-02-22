@@ -70,12 +70,3 @@ You'll be assigned two classmates' repositories to review. Provide your feedback
 Be constructive and specific. Good peer reviews identify both strengths and areas for growth.
 
 You are *not* grading each other's pieces, just providing feedback.
-
-## Timeline
-
-- **Friday, Feb 20**: Portfolio piece due (push your final version to this repo)
-- **Friday, Feb 27**: Peer reviews due (submit PRs with feedback to your assigned classmates' repos)
-
-## Questions?
-
-We can discuss more in class, in office hours, in discussion, and you can ask on Piazza.
