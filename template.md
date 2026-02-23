@@ -71,4 +71,4 @@ Be constructive and specific. Good peer reviews identify both strengths and area
 
 You are *not* grading each other's pieces, just providing feedback.
 
-LETS GET IT REVIEWED!!!
+For review purposes
